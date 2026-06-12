@@ -1,4 +1,5 @@
 
+//
 
 public class Calculator {
     
@@ -11,3 +12,4 @@ public class Calculator {
     }
 }
 
+// multiple inheritance is not possible in java
