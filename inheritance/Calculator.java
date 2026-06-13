@@ -1,5 +1,6 @@
 
-//
+import tools.AdvCalc;
+//import tools.*;  - this means import all classes of tools package
 
 public class Calculator {
     
